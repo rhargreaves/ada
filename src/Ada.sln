@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ada.Bass", "Ada.Bass\Ada.Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ada.Tests", "Ada.Tests\Ada.Tests.csproj", "{2BF5DCD7-72BC-44CB-B61F-9251EA8FCC04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ada.Demo", "Ada.Demo\Ada.Demo.csproj", "{4CD1E2C7-5E08-4698-9620-D5C94F81A8BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2BF5DCD7-72BC-44CB-B61F-9251EA8FCC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BF5DCD7-72BC-44CB-B61F-9251EA8FCC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BF5DCD7-72BC-44CB-B61F-9251EA8FCC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD1E2C7-5E08-4698-9620-D5C94F81A8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD1E2C7-5E08-4698-9620-D5C94F81A8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD1E2C7-5E08-4698-9620-D5C94F81A8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD1E2C7-5E08-4698-9620-D5C94F81A8BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
