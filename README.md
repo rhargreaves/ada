@@ -1,6 +1,6 @@
 # ada
 
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/rhargreaves/ada?branch=master&svg=true)]
+![Build Status](https://ci.appveyor.com/api/projects/status/github/rhargreaves/ada?branch=master&svg=true)
 
 (Object-Orientated) Audio Device Abstraction
 
